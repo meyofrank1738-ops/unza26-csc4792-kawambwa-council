@@ -1,0 +1,105 @@
+[
+  {
+    "filename": "MINUTES-FIRST-ORDINARY-27TH-FEB-2024.pdf",
+    "meeting_name": "First Ordinary Council Meeting 2024",
+    "meeting_sequence": "1st Ordinary 2024",
+    "date": "2024-02-27",
+    "presiding_officer": "H.W Kalumba Chifumbe (Council Chairperson)",
+    "attendance": "20 Councillors present (19 elected + 1 ex-officio), 15 Council Officers, 8 invited delegates",
+    "document_type": "Digital Statutory Minutes",
+    "pages": 9,
+    "status": "Structured into CSV (11 resolution items)",
+    "key_resolutions": [
+      "Elected Cllr Daniel C. Mulenga as Deputy Council Chairperson (9 votes)",
+      "Adopted standing committee reports: Audit, Health & Social Services, Plans & Works, and Finance/HR",
+      "Formally constituted membership across all council standing committees",
+      "Addressed district land management irregularities"
+    ],
+    "numbering_quirk": null
+  },
+  {
+    "filename": "SECOND-ORDINARY-COUNCIL-2024.pdf",
+    "meeting_name": "Second Ordinary Council Meeting 2024",
+    "meeting_sequence": "2nd Ordinary 2024",
+    "date": "2024-06-13",
+    "presiding_officer": "H.W Kalumba Chifumbe (Council Chairperson)",
+    "attendance": "Councillors and Council Officers present",
+    "document_type": "Digital Statutory Minutes",
+    "pages": 7,
+    "status": "Structured into CSV (10 resolution items)",
+    "key_resolutions": [
+      "KTC/56/06/2024: Formally approved and adopted the 2022 Audited Financial Statements",
+      "KTC/57/06/2024: Approved equity participation and formation of the joint Luapula Provincial Investment Company by the 12 Councils in Luapula",
+      "Adopted quarterly committee minutes across finance, works, and health"
+    ],
+    "numbering_quirk": null
+  },
+  {
+    "filename": "MINUTES-OF-FIRST-ORDINARY-COUNCIL-2025.pdf",
+    "meeting_name": "First Ordinary Council Meeting 2025",
+    "meeting_sequence": "1st Ordinary 2025",
+    "date": "2025-06-05",
+    "presiding_officer": "H.W Titus Musa (Council Chairperson)",
+    "attendance": "17 Councillors present, senior management team",
+    "document_type": "Digital Statutory Minutes",
+    "pages": 6,
+    "status": "Structured into CSV (8 resolution items)",
+    "key_resolutions": [
+      "KTC/03/06/2025: Authorized management to proceed with CDF committees to procure laboratory equipment for the District Hospital",
+      "Noted contract termination for Munkanta health facility borehole",
+      "Deferred customary-to-leasehold land conversion application for Chishala Benson back to Plans & Works Committee",
+      "Noted administrative boundary conflict at Ntumbachushi Falls between Kawambwa and Mwansabombwe districts"
+    ],
+    "numbering_quirk": "Minute numbers KTC/01/06/2025\u2013KTC/09/06/2025 are identically reused in the 2nd Ordinary 2025 meeting. Disambiguated by meeting_sequence."
+  },
+  {
+    "filename": "MINUTES-OF-SECOND-ORDINARY-COUNCIL-2025.pdf",
+    "meeting_name": "Second Ordinary Council Meeting 2025",
+    "meeting_sequence": "2nd Ordinary 2025",
+    "date": "2025-08-05",
+    "presiding_officer": "H.W Titus Musa (Council Chairperson)",
+    "attendance": "Senior Chief Mushota, 15 Councillors present, management and public gallery",
+    "document_type": "Digital Statutory Minutes",
+    "pages": 7,
+    "status": "Structured into CSV (8 resolution items)",
+    "key_resolutions": [
+      "Reviewed CDF water reticulation projects (industrial boreholes connected to Luapula Water reticulation system)",
+      "Re-affirmed Standing Committee recommendations for 2025 fiscal year"
+    ],
+    "numbering_quirk": "Documented Source Typo/Artifact: Council typist duplicated the header and minute sequence numbers (KTC/01/06/2025\u2013KTC/09/06/2025) from the 5 June 2025 meeting instead of indexing under August 2025. Disambiguated via meeting_sequence."
+  },
+  {
+    "filename": "SIGNED-BUSSINESS-MINUTES-22-OCTOBER2024.pdf",
+    "meeting_name": "Stakeholders Consultative Meeting on the 2025 Budget",
+    "meeting_sequence": "Stakeholder Consultation 2025 Budget",
+    "date": "2024-10-22",
+    "presiding_officer": "Director of Finance & Deputy Director of Finance",
+    "attendance": "Council Directors, ZAPD, Clergy, ZESCO, NAPSA, Market Committee leaders, WDCs, local business community",
+    "document_type": "Scanned Signed PDF (Vision OCR)",
+    "pages": 7,
+    "status": "Structured into CSV (3 resolution items)",
+    "key_resolutions": [
+      "Detailed 2024 budget execution performance (K74M total budget, K94.4M committed)",
+      "Resolved to operationalize stalled CDF capital projects (Mushota Market, Nachampama school block, Munkanta maternity annex)",
+      "Resolved to support WDCs with official identity credentials, transport (bicycles/motorbikes), and CDF guideline training"
+    ],
+    "numbering_quirk": null
+  },
+  {
+    "filename": "STAKEHOLDER-ENGAGEMENT-MINUTES.pdf",
+    "meeting_name": "Stakeholders Engagement Meeting on Modern Bus Station",
+    "meeting_sequence": "Stakeholder Engagement Modern Bus Station",
+    "date": "2025-01-17",
+    "presiding_officer": "Deputy Director of Works & Environmental Planner",
+    "attendance": "Council Officers, Cllr Daniel Mulenga, Public Transporters, Taxi Operators, Market Associations",
+    "document_type": "Scanned Signed PDF (Vision OCR)",
+    "pages": 8,
+    "status": "Structured into CSV (4 resolution items)",
+    "key_resolutions": [
+      "Resolved to site Modern Bus Station on 1.4 hectares in Land Development Fund (LDF) statutory land near General Hospital",
+      "Approved enclosed architectural design adapted to high local rainfall",
+      "Mandated integrated State & Council police post and dedicated water scheme with community extension"
+    ],
+    "numbering_quirk": null
+  }
+]
