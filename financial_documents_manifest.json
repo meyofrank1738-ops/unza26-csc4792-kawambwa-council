@@ -1,0 +1,113 @@
+[
+  {
+    "filename": "KTC-OBB-BUDGET-2026-to-2027.pdf",
+    "title": "Kawambwa Town Council Output-Based Budget (OBB) 2026 - 2028",
+    "type": "Digital Structured Document",
+    "pages": 65,
+    "has_extractable_tables": true,
+    "dataset_output": "db-unza26-csc4792-kawambwa_budget_obb.csv",
+    "key_data_points": [
+      "Detailed 111-line revenue schedule (2026 Approved, 2027 Revised, 2028 Estimates)",
+      "Economic classification summary (Personal Emoluments, Goods & Services, Assets)",
+      "Programme summaries (Local Governance, Integrated Dev Planning, Resource Mobilisation)",
+      "Sub-programme allocations across 2024, 2025, and 2026"
+    ],
+    "ocr_priority": "Not needed (fully digital vector data)"
+  },
+  {
+    "filename": "Kawambwa-Town-Council-Audited-Financial-Statements-2022.pdf",
+    "title": "Audited Financial Statements for Year Ended 31st December 2022",
+    "type": "Digital Accounting Document",
+    "pages": 29,
+    "has_extractable_tables": true,
+    "dataset_output": "db-unza26-csc4792-kawambwa_financials_2022.csv",
+    "key_data_points": [
+      "Statement of Comparison of Budget and Actual Amounts (Page 12)",
+      "Statement of Cash Receipts & Payments (2022 Actual vs 2021 Restated)",
+      "Local Taxes: K652,945 Budget vs K468,731 Actual (72% performance)",
+      "Constituency Development Fund (CDF): K51,400,000 Budget vs K47,479,821 Actual",
+      "Total Council Receipts: K61,962,727; Total Payments: K19,412,579; Cash Balance: K49,494,861"
+    ],
+    "ocr_priority": "Not needed (fully digital text)"
+  },
+  {
+    "filename": "UNMODIFIED-AUDIT-OPINION-FOR-2022-FINANCIAL-STATEMENTS.pdf",
+    "title": "Auditor General Independent Auditor's Report (Clean Opinion)",
+    "type": "Narrative Legal Letter",
+    "pages": 3,
+    "has_extractable_tables": false,
+    "dataset_output": "Manifest Only",
+    "key_data_points": [
+      "Official Unmodified (Clean) Audit Opinion issued by Office of the Auditor General",
+      "Confirms council cash receipts and payments present fairly under Cash Basis IPSAS",
+      "Addressed to the Minister of Local Government and Rural Development"
+    ],
+    "ocr_priority": "Not needed (digital narrative text)"
+  },
+  {
+    "filename": "SIGNED-PROPERTY-RATES-2025.pdf",
+    "title": "Minutes of Meeting between Property Rate Payers and Management (17 July 2025)",
+    "type": "Scanned Document (OCR Verified)",
+    "pages": 5,
+    "has_extractable_tables": false,
+    "dataset_output": "Manifest & OCR Summary",
+    "key_data_points": [
+      "Official ratepayer consultation meeting chaired by Council Secretary Andrew Bwali",
+      "2024 Property rate collection performance: 63%",
+      "2025 Current property rate collection performance: 33%",
+      "Council incentive policy: 20% write-off on outstanding rates if 80% is paid within 3 months (August 2025)",
+      "Register of 62 property owners across Low Density, Medium Density, Messengers, Suburbs",
+      "Signed and stamped with official seal on 25 July 2025"
+    ],
+    "ocr_priority": "High Value OCR Completed (Governance & Compliance Metrics)"
+  },
+  {
+    "filename": "FINANCIAL-STATEMENTS-REPORT-2024.pdf",
+    "title": "Draft Financial Statements Report 2024",
+    "type": "Scanned Financial Booklet",
+    "pages": 41,
+    "has_extractable_tables": false,
+    "dataset_output": "Manifest Only",
+    "key_data_points": [
+      "Complete 41-page signed draft financial statements for 2024",
+      "Contains 2024 cash receipts and payments schedules and CDF expenditure notes"
+    ],
+    "ocr_priority": "High Priority for Second Pass (if full 2024 cash actuals needed)"
+  },
+  {
+    "filename": "SEMI-ANNUAL-BUDGET-EXECUTION-REPORTS.pdf",
+    "title": "Semi-Annual Budget Execution Report",
+    "type": "Scanned Administrative Report",
+    "pages": 19,
+    "has_extractable_tables": false,
+    "dataset_output": "Manifest Only",
+    "key_data_points": [
+      "Mid-year budget performance schedules and department execution rates"
+    ],
+    "ocr_priority": "Medium Priority for Second Pass"
+  },
+  {
+    "filename": "SEMI-ANNUAL-BUDGET-2024.pdf",
+    "title": "Semi-Annual Budget 2024 Resolution",
+    "type": "Scanned Council Resolution",
+    "pages": 3,
+    "has_extractable_tables": false,
+    "dataset_output": "Manifest Only",
+    "key_data_points": [
+      "Council resolution approving 2024 supplementary adjustments"
+    ],
+    "ocr_priority": "Low Priority"
+  },
+  {
+    "filename": "2024-Annual-Perfomance-Report.pdf",
+    "title": "Annual Performance Report 2024 Submission",
+    "type": "Scanned Administrative Memo",
+    "pages": 3,
+    "has_extractable_tables": false,
+    "dataset_output": "Manifest Only",
+    "key_data_points": [
+      "Official submission letter on institutional KPI performance to MLGRD"
+    ],
+    "ocr_priority": "Low Priority"
+  }
+]
