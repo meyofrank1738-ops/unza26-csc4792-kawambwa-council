@@ -27,6 +27,7 @@ The pipeline ingests raw HTML pages and 73 PDF documents across financial, plann
 | **`07_structure_idp_docs.py`** | Integrated Development Plan (CIP) and Bus Station ESMP mitigation matrix | `db-unza26-csc4792-kawambwa_idp_projects.csv` (43 rows), `db-unza26-csc4792-kawambwa_esmp_bus_station.csv` (14 rows), `idp_documents_manifest.json/.md` |
 | **`08_structure_admin_minutes.py`** | Council meeting resolutions & OCR-extracted stakeholder consultations | `db-unza26-csc4792-kawambwa_council_resolutions.csv` (44 rows), `admin_minutes_manifest.json/.md` |
 | **`ocr_property_rates.py`** | Apple Vision framework OCR script for scanned ratepayer consultation minutes | `property_rates_ocr.txt` |
+| **`kawambwa_council_pipeline.ipynb`** | End-to-end reproducible Jupyter Notebook unifying all pipelines, methodology notes, and audit checks | Full workflow with data previews and audits |
 
 ---
 
