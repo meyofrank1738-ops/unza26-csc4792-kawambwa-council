@@ -38,10 +38,10 @@ All datasets are pipe-delimited (`|`) with UTF-8 encoding:
    - *Columns:* `ward|project_name|year|status|amount|category|project_type|constituency|source_file|data_conflict`
    - *Coverage:* Approved and deferred projects across Kawambwa and Pambashe constituencies (2022–2025).
 2. **`db-unza26-csc4792-kawambwa_budget_obb.csv` (105 rows)**
-   - *Columns:* `table_type|revenue_expenditure_code|programme_name|item_description|amount_2024|amount_2025|amount_2026|amount_2027|amount_2028|source_file|page`
+   - *Columns:* `budget_section|classification_level|code|description|amount_2024|amount_2025|amount_2026|amount_2027|amount_2028|source_file|page`
    - *Coverage:* MTEF Output-Based Budget estimates and expenditure by economic classification (2024–2028).
 3. **`db-unza26-csc4792-kawambwa_financials_2022.csv` (42 rows)**
-   - *Columns:* `financial_statement|line_item_code|line_item_description|budget_2022|actual_2022|variance_2022|actual_2021_restated|source_file|page`
+   - *Columns:* `statement_name|section|item_name|original_budget|adjustments|final_budget|actual_amount|pct_performance|variance|pct_variance|year|source_file|page`
    - *Coverage:* Audited financial statements under Cash Basis IPSAS (comparison of budget vs. actual).
 4. **`db-unza26-csc4792-kawambwa_idp_projects.csv` (43 rows)**
    - *Columns:* `programme|project_name|location_priority|cost_2024|cost_2025|cost_2026|cost_2027|cost_2028|responsible_agency|source_file|page`
